@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+## Screenshot
+![Alt text](/screenshot/shot.jpg?raw=true "Optional Title")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
