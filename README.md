@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Screenshot
 <div align="center">
-    <img src="/screenshot/shot.jpg" width="100px" height="150" /> 
+    <img src="/screenshot/shot.jpg" width="400px" height="500" /> 
 </div>
 
 ## Getting Started
