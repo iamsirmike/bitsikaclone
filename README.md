@@ -3,7 +3,9 @@
 A new Flutter project.
 
 ## Screenshot
-![Alt text](/screenshot/shot.jpg?raw=true "Optional Title")
+<div align="center">
+    <img src="/screenshot/shot.jpg" width="100px" height="150" /> 
+</div>
 
 ## Getting Started
 
